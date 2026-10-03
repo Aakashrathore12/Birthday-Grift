@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>Happy Birthday My Love 💖</title>
+<style>
+body {
+  background-color: #0a0a0a;
+  color: #00ffcc;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  padding-top: 100px;
+}
+h1 {
+  color: #ff66cc;
+  animation: glow 2s infinite alternate;
+}
+@keyframes glow {
+  from { text-shadow: 0 0 10px #ff66cc; }
+  to { text-shadow: 0 0 20px #ff99ff; }
+}
+</style>
+</head>
+<body>
+<h1>Access Granted 💻</h1>
+<p>Initializing Birthday Protocol...</p>
+<p>Deploying Virtual Hugs & Kisses...</p>
+<p><strong>Output:</strong> Infinite Love ❤️</p>
+<p>Distance = Temporary | Connection = Forever 🔗</p>
+</body>
+</html>
+
